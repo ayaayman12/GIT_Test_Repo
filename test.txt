@@ -1,2 +1,3 @@
 Hello
-this is a GIT Test
+this is a GIT Test,
+we are going to practise the commands

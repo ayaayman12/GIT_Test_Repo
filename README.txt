@@ -1,3 +1,3 @@
 Hello
-this our new repo it's just to test git concept using github
+this our new repo it's just to test GIT concept using GitHub
 hope you find it usefull

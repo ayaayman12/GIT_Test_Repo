@@ -1,4 +1,5 @@
 // this code is written to test Branching concept
+/* this function take 2 integer variables and return an integer variable*/
 int Add (int x, int y)
 {
 

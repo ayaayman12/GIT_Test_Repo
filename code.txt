@@ -1,6 +1,7 @@
 // this code is written to test Branching concept
 int Add (int x, int y)
 {
+   static int z = 0;
 
      return x+y;
     

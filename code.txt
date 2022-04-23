@@ -1,11 +1,10 @@
 // this code is written to test Branching concept
 /* this function take 2 integer variables and return an integer variable*/
+#define ZERO 0
 int Add (int x, int y)
 {
 
-    static int z = 0;
+    static int z = ZERO;
     z= x+y;
-     return z;
-
-    
+    return z;
 }
